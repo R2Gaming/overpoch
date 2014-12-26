@@ -39,7 +39,7 @@ _role7names = ["ts3.r2clan.net<br />Ask and Admin for your private group channel
 _role8 = "[R2] Gaming Credit Rewards!";
 _role8names = ["We offer rewards for our community members!<br />Come and claim your's today!<br />www.r2clan.net!"];
 _role9 = "Keep an eye out for events<br />We give [R2] Credits Rewards!";
-_role9names = ["Welcome to [R2] Gaming Community!<br />See you in the Barrens of Overpoch!"];
+_role9names = ["Welcome to [R2] Gaming!<br />Please follow our rules!"];
 _role10 = "[R2] Gaming Overpoch SERVER RULES!";
 _role10names = ["No SPAWN CAMPING.<br />No VOICE in SIDE.<br />Respect the ADMINS.<br />This is a IDIOT free zone."]; 
 {
