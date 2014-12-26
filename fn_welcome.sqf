@@ -25,7 +25,7 @@ sleep 10; //Wait in seconds before the credits start after player IS ingame
 _role1 = "Welcome to<br />[R2] Gaming Overpoch";
 _role1names = ["Please visit [R2] Website<br />For Info and Rewards!"];
 _role2 = "Need help or want to make a suggestion?";
-_role2names = ["Our Website<br />www.r2clan.net"];
+_role2names = ["Our Website<br />www.r2clan.net<br />Join Our TS For Admin Help"];
 _role3 = "Server mods:";
 _role3names = ["EpochMod, Altis, wMessage<br /> Missions, Metalfarms, Roaming AI<br /> Towing"];
 _role4 = "Server anti-hack";
