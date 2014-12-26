@@ -22,25 +22,25 @@ _onScreenTime = 6; //how long one role should stay on screen. Use value from 0 t
 // ==== SCRIPT START ====
 sleep 10; //Wait in seconds before the credits start after player IS ingame
 //playSound "intro";
-_role1 = "Welcome to<br />R2 Gaming Overpoch ";
-_role1names = ["Please visit the site for rewards."];
-_role2 = "Need help?";
-_role2names = ["Visit the wbsite."];
+_role1 = "Welcome to<br />[R2] Gaming Overpoch";
+_role1names = ["Please visit [R2] Website for Info & Rewards"];
+_role2 = "Need help or want to make a suggestion?";
+_role2names = ["Visit our Website.<br />www.r2clan.net"];
 _role3 = "Server mods:";
 _role3names = ["EpochMod, Altis, wMessage<br /> Missions, Metalfarms, Roaming AI<br /> Towing"];
 _role4 = "Server anti-hack";
 _role4names = ["by infiSTAR.de"];
 _role5 = "Server Specs:";
 _role5names = ["100% Dedicated<br />3.4ghz INTEL XEON<br />100mbit up/down<br />Auto restart every 4 hours"];
-_role6 = "Website:";
-_role6names = ["www.r2clan.net"];
-_role7 = "Teamspeak";
-_role7names = ["ts3.r2clan.net"];
-_role8 = "Sign up and join us in teamspeak.";
-_role8names = ["It's always a good time."];
-_role9 = "Keep an eye out for events<br /> and for r2 credit rewards.";
-_role9names = ["See you in the Barrens of Overpoch."];
-_role10 = "MAIN SERVER RULES!";
+_role6 = "[R2] Gaming Website:";
+_role6names = ["www.r2clan.net<br />Check out our community rewards!"];
+_role7 = "[R2] Gaming Public Teamspeak";
+_role7names = ["ts3.r2clan.net<br />Ask and Admin for your private group channel"];
+_role8 = "[R2] Gaming Credit Rewards!";
+_role8names = ["We offer rewards for our community members!<br />Come and claim your's today!<br />www.r2clan.net!"];
+_role9 = "Keep an eye out for events<br />We give [R2] Credits Rewards!";
+_role9names = ["Welcome to [R2] Gaming Community!<br />See you in the Barrens of Overpoch!"];
+_role10 = "[R2] Gaming Overpoch SERVER RULES!";
 _role10names = ["No SPAWN CAMPING.<br />No VOICE in SIDE.<br />Respect the ADMINS.<br />This is a IDIOT free zone."]; 
 {
 sleep 2;
