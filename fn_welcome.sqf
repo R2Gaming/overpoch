@@ -23,7 +23,7 @@ _onScreenTime = 6; //how long one role should stay on screen. Use value from 0 t
 sleep 10; //Wait in seconds before the credits start after player IS ingame
 //playSound "intro";
 _role1 = "Welcome to<br />[R2] Gaming Overpoch";
-_role1names = ["Please visit [R2] Website for Info & Rewards"];
+_role1names = ["Please visit [R2] Website<br />For Info & Rewards!"];
 _role2 = "Need help or want to make a suggestion?";
 _role2names = ["Visit our Website.<br />www.r2clan.net"];
 _role3 = "Server mods:";
